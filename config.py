@@ -8,7 +8,7 @@ id_pattern = re.compile(r'^.\d+$')
 
 API_ID = os.environ.get("API_ID", "16995961")
 API_HASH = os.environ.get("API_HASH", "8817a7d4293049593e60999359970ddd")
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8223534265:AAEGCECBgU83E0dQTGWFXimO4OidxqbRiIw")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8639333344:AAGO2Dl9Xrw2XIoc9WIWthH6h_TiDI-gUWQ")
 ADMIN = int(os.environ.get("ADMIN", '7364106679'))
 FSUB_UPDATES = os.environ.get("FSUB_CHANNEL", "Anime_Encodes_Telugu")
 FSUB_GROUP = os.environ.get("FSUB_GROUP", "animeencodestelugusupport")
